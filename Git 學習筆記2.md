@@ -2,7 +2,7 @@
 
 ### 如何在同一台電腦中同時使用兩個GitHub帳號
 
-因為有特殊的需求所以引起我想在同一台電腦中只用兩個GitHub帳號，但這個部分對我來說其實有一點挑戰，因為畢竟之前沒有用過Git，原本以為使用一般的方式應該就可以了，沒想到如果用一般的HTTPS的方式其實沒辦法同時在一台電腦中完成這件事，因此我就開始了這個的研究。
+因為有特殊的需求所以引起我想在同一台電腦中使用兩個GitHub帳號，但這個部分對我來說其實有一點挑戰，因為畢竟之前沒有用過Git，原本以為使用一般的方式應該就可以了，沒想到如果用一般的HTTPS的方式其實沒辦法同時在一台電腦中完成這件事，因此我就開始了這個的研究。
 
 ### 產生SSH
 
@@ -24,13 +24,13 @@ ls
 
 從setting的地方找到ssh的地方，並將你的.pub檔放進去
 
-![Screenshot 2022-06-14 185334](C:\Users\Tommy\Downloads\Screenshot 2022-06-14 185334.png)
+![Screenshot 2022-06-14 185334](https://github.com/YuCheng1122/GitBash/blob/master/src/Screenshot%202022-06-14%20185334.png)
 
-![git(11)](C:\Users\Tommy\Downloads\git(11).png)
+![git(11)](https://github.com/YuCheng1122/GitBash/blob/master/src/git(11).png)
 
 ### 產生出的檔案中.pub是公鑰，另一個則為對應的私鑰。
 
-![git(12)](C:\Users\Tommy\Downloads\git(12).png)
+![git(12)](https://github.com/YuCheng1122/GitBash/blob/master/src/git(12).png)
 
 ### 設定SSH
 
