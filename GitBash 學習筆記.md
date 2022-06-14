@@ -4,7 +4,7 @@
 
 https://git-scm.com/download/win
 
-![git(3)](C:\Users\Tommy\Downloads\git(3).png)
+![git(3)](https://github.com/YuCheng1122/GitBash/blob/master/src/git(3).png)
 
 ### Git 有哪些用途
 
@@ -28,14 +28,13 @@ https://git-scm.com/download/win
 ### git init 
 將新建的資料夾初始化
 
-![git(4)](C:\Users\Tommy\Downloads\git(4).png)
+![git(4)](https://github.com/YuCheng1122/GitBash/blob/master/src/git(4).png)
 
 ### git status 查詢狀態
 
 透過這個指令查詢資料夾目前的狀態
 
-![git(5)](C:\Users\Tommy\Downloads\git(5).png)
-
+![git(5)](https://github.com/YuCheng1122/GitBash/blob/master/src/git(5).png)
 ### git add 
 
 可以用git add . 加入全部的檔案
@@ -46,19 +45,19 @@ git add .
 
 
 
-![git(6)](C:\Users\Tommy\Downloads\git(6).png)
+![git(6)](https://github.com/YuCheng1122/GitBash/blob/master/src/git(6).png)
 
 ### git commit
 
 將加入的資料做儲存，同時為這一次的存檔命名
 
-![Screenshot 2022-06-14 175414](C:\Users\Tommy\Downloads\Screenshot 2022-06-14 175414.png)
+![Screenshot 2022-06-14 175414](https://github.com/YuCheng1122/GitBash/blob/master/src/Screenshot%202022-06-14%20175414.png)
 
 ### git log
 
 存檔後我們可以透過git log這個語法去查詢我們幾次的存檔狀態
 
-![git(7)](C:\Users\Tommy\Downloads\git(7).png)
+![git(7)](https://github.com/YuCheng1122/GitBash/blob/master/src/git(7).png)
 
 ### 創建origin
 
@@ -72,7 +71,7 @@ git remote add origin URL
 git push -u origin master
 ```
 
-![git(10)](C:\Users\Tommy\Downloads\git(10).png)
+![git(10)](https://github.com/YuCheng1122/GitBash/blob/master/src/git(10).png)
 
 ## 參考資料
 
