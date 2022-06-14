@@ -4,6 +4,8 @@
 
 https://git-scm.com/download/win
 
+![git(3)](C:\Users\Tommy\Downloads\git(3).png)
+
 ### Git 有哪些用途
 
 - 版本控制系統
@@ -23,9 +25,59 @@ https://git-scm.com/download/win
 5. git status
 
 ## 如何將檔案上傳到GitHub
-1. git init 
+### git init 
 將新建的資料夾初始化
-2. git status 查詢狀態
-3. git add .
-4. git commit
-5. q!
+
+![git(4)](C:\Users\Tommy\Downloads\git(4).png)
+
+### git status 查詢狀態
+
+透過這個指令查詢資料夾目前的狀態
+
+![git(5)](C:\Users\Tommy\Downloads\git(5).png)
+
+### git add 
+
+可以用git add . 加入全部的檔案
+
+```git
+git add .
+```
+
+
+
+![git(6)](C:\Users\Tommy\Downloads\git(6).png)
+
+### git commit
+
+將加入的資料做儲存，同時為這一次的存檔命名
+
+![Screenshot 2022-06-14 175414](C:\Users\Tommy\Downloads\Screenshot 2022-06-14 175414.png)
+
+### git log
+
+存檔後我們可以透過git log這個語法去查詢我們幾次的存檔狀態
+
+![git(7)](C:\Users\Tommy\Downloads\git(7).png)
+
+### 創建origin
+
+``` git
+git remote add origin URL
+```
+
+### 上傳我們的檔案
+
+```git
+git push -u origin master
+```
+
+![git(10)](C:\Users\Tommy\Downloads\git(10).png)
+
+## 參考資料
+
+https://git-scm.com/downloads
+
+https://youtu.be/B-SZqdlU59g
+
+https://www.youtube.com/watch?v=Zd5jSDRjWfA&t=728s
