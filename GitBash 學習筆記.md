@@ -1,4 +1,4 @@
-GitBash 學習筆記
+# GitBash 學習筆記
 
 ### 如何安裝GitBash
 
